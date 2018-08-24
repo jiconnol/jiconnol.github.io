@@ -1,0 +1,26 @@
+---
+layout: post
+title: This is the title of the post
+postHero: /images/Pink-blossoms.png
+author: James Connolly
+authorTwitter: http://twitter.com/mhartl
+gravatar: /images/James-avatar.jpg
+postFooter: Additional information, and maybe a <a href="#">link or two</a>
+---
+
+The jungle humidity sticks to Cortes’ skin in a thick layer like a wool blanket. His body trembles from the heat, beads of sweat suspended in rows upon his creased forehead. He yearns for the fresh, crisp valley air, relishing its sensation in his imagination.
+
+<img class="pull-left" src="http://placekitten.com/g/400/200"
+     alt="kitten">
+
+One soggy Saturday, when the drenching spring rains unloaded fertile liquid on receptive soils, I caught a History channel program on samurai sexuality. The narrator commented on a particularly scandalous legend of a warrior who’d reportedly slept with 100 women in a day. A feat in samurai culture, one that was envied with emulated attempts to repeat it. To date, the record remains with its original champion. How I wish I were a samurai at that time; I’d brave Hari Kari to take a shot in the ring.
+
+Dear bird resting in my hand
+I so admire your golden plumage,
+Such dramatic attire; documentaries claim
+It’s part of your mating game, except out here in the
+Swampy reeds along this churning river, where fishermen
+Sometimes wade
+There are few females to impress.
+I wonder if you gild your feathers just for
+Aesthetic pleasure?
