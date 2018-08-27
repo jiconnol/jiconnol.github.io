@@ -465,3 +465,8 @@ h4 {
     display: none;
   }
 }
+@media (max-width: 600px) {
+  .half-hero {
+    display: none;
+  }
+}
