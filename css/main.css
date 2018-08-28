@@ -497,6 +497,12 @@ h4 {
   .post-aside {
     display: none;
   }
+  .blog-recent {
+    display: none;
+  }
+  .blog-previews {
+    padding: 0;
+  }
 
   /*Gallery Styles */
   .gallery {
