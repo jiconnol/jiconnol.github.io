@@ -143,7 +143,54 @@ h4 {
 .header-nav > li:first-child a:hover {
   color: #fff;
 }
-
+.header-nav a,
+.drop-trigger {
+color: #fff;
+}
+.nav-links a,
+.drop-trigger {
+font-size: 0.8rem;
+  font-weight: bold;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+/* DROPDOWN STYLES */
+.dropdown {
+  position: relative;
+}
+.drop-trigger {
+  display: inline-block;
+  padding-right: 1.5em;
+  position: relative;
+}
+.drop-trigger:after {
+  border: 0.3em solid;
+  border-color: #fff transparent transparent;
+  content: "";
+  height: 0;
+  position: absolute;
+  right: 0;
+  top: 0.3em;
+  width: 0;
+}
+.drop-menu {
+  display: none;
+  list-style: none;
+  padding: 1em 0 0;
+  position: absolute;
+  right: 0;
+  z-index: 9;
+}
+.drop-menu li {
+  background-color: #fff;
+}
+.drop-menu a {
+  color: #333;
+  display: block;
+}
+.dropdown:hover .drop-menu {
+  display: block;
+}
 /* FOOTER STYLES */
 .footer {
   background-color: #000;
